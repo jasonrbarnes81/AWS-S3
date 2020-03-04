@@ -1,6 +1,8 @@
 # AWS-S3
 Amazon file storage integration 
 
+Upload multipul files at one time and return the url path for the file.
+
 
 using Amazon.S3
 
